@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+# Things I enjoy:
+- Travel
+- Hiking
+- Beach
+- Running
+- Music
+- Learning new skills
+- 
