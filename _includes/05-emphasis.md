@@ -1,8 +1,9 @@
 # Attributes and Skills
-**Engineering 
-_Electrician
-_SCADA
-**Programming
+**Engineering** 
+- *Electrician*
+- *SCADA*
+
+**Programming**
 - SQL 
 - Python
 - C ++
